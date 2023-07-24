@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{12E7BD02-A8B0-4785-8766-E001C9F47323}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{36B929D4-58C8-4C4E-ACB8-5227FAE04752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFeatrue", "CommonFeatrue\CommonFeatrue.csproj", "{D723FCF0-A22D-43B5-80CF-184D45813AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D723FCF0-A22D-43B5-80CF-184D45813AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D723FCF0-A22D-43B5-80CF-184D45813AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D723FCF0-A22D-43B5-80CF-184D45813AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D723FCF0-A22D-43B5-80CF-184D45813AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D723FCF0-A22D-43B5-80CF-184D45813AB9} = {12E7BD02-A8B0-4785-8766-E001C9F47323}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37E421B8-F1FF-442C-8C44-FF95023A26B4}
+	EndGlobalSection
+EndGlobal
